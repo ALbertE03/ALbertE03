@@ -1,8 +1,5 @@
 # 👋 Hola, soy Albert | Desarrollador & Entusiasta de Datos
 
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=ALbertE03&icon=9&color=0" alt="Visitas" />
-</p>
 
 > **"Constante aprendizaje para transformar datos en soluciones inteligentes."**
 
@@ -43,22 +40,3 @@ Soy un desarrollador enfocado en el análisis de datos y el aprendizaje automát
 </p>
 
 ---
-
-### 🔍 En qué estoy trabajando
-- 🔭 **Actualmente:** Mejorando mis habilidades en el despliegue de contenedores con **Docker**.
-- 🌱 **Aprendiendo:** Arquitecturas avanzadas de visión artificial con **PyTorch**.
-- 🤝 **Colaboración:** Abierto a proyectos de código abierto relacionados con Data Science.
-- 💬 **Pregúntame sobre:** Análisis de datos con Python y visualizaciones interactivas.
-
----
-
-### 🔝 Top Contributions
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ALbertE03&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contribuciones principales" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
